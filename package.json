@@ -50,7 +50,7 @@
     "nedb": "^1.8.0",
     "node-cache": "^5.1.2",
     "node-fetch": "^3.2.10",
-    "open-graph-scraper": "^4.9.0",
+    "open-graph-scraper": "^5.0.1",
     "twig": "^1.15.4",
     "uuid4": "^2.0.2",
     "yargs": "^17.6.0",
